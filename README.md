@@ -2,7 +2,7 @@
 # Global Sales Analysis
 Data Analysis using Power BI
 
-<img src="/Video/Sales_Demo.gif" width="1500" height="900"/>
+<img src="/Video/Sales_Demo.gif" width="1300" height="400"/>
 
 
 
