@@ -1,9 +1,10 @@
 
-<img src="images/GIT_HUB_Logo.gif" alt="Demo GIF" width="1300" height = "200"/>
-
-
 # Global Sales Analysis
 Data Analysis using Power BI
+
+<img src="/Video/Sales_Demo.gif" width="1500" height="900"/>
+
+
 
 ## Overview
 This project contains a Power BI dashboard for analysing data of a company which has details like date of order, purchase, sales, customer, etc. It contains the data from 2019 to 2022. The data was stored in excel format. Data cleaning and transformation were performed using Power Query Editor and visualization using Power BI. The dashboard consists of three pages: Main, Notification Tooltip, and Insights.
