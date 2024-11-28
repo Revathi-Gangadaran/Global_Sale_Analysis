@@ -1,4 +1,6 @@
+
 <img src="images/GIT_HUB_Logo.gif" alt="Demo GIF" width="1300" height = "200"/>
+
 
 # Global Sales Analysis
 Data Analysis using Power BI
