@@ -4,7 +4,10 @@
 Data Analysis using Power BI
 
 ## Overview
-This project contains a Power BI dashboard for analysing data of a company which has details like date of order, purchase, sales, customer, etc. It contains the data from 2019 to 2022. The data was stored in excel format. Data cleaning and transformation were performed using Power Query Editor and visualization using Power BI.
+This project contains a Power BI dashboard for analysing data of a company which has details like date of order, purchase, sales, customer, etc. It contains the data from 2019 to 2022. The data was stored in excel format. Data cleaning and transformation were performed using Power Query Editor and visualization using Power BI. The dashboard consists of three pages: Main, Notification Tooltip, and Insights.
+  * The Main page features the primary visualizations and includes a notification bell located at the top-right corner, allowing users to view notifications.
+  * The Notification Tooltip page displays details such as the company members who visited the dashboard, along with the corresponding date and time.
+  * The Insights page provides an overview of key performance indicators (KPIs) derived from the dataset.
 
 ## Tools
 - Power BI
@@ -22,7 +25,7 @@ This project contains a Power BI dashboard for analysing data of a company which
 ![Dashboard Overview](images/Sales.png)
 
 ## Visualizations:
-This dashboard provides insights into the Profit and Revenue of products supplied globally.
+This dashboard provides insights into the Profit and Revenue of products supplied globally. 
 
 - Gauge Chart
     Total Profit from sales: $1.47M
@@ -49,7 +52,7 @@ This dashboard provides insights into the Profit and Revenue of products supplie
     The scatter chart represents sales, profit, and market size by category and shipping mode:
         Office Supplies shipped via Standard Class dominate with a market size of 18,695, total profit of $307,924, and total sales of $2,232,709.
         Technology in Standard Class holds the second-largest market size of 6,117.
-  
+
 
 ## Languages Used
 
