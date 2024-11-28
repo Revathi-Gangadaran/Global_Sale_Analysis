@@ -18,6 +18,9 @@ This project contains a Power BI dashboard for analysing data of a company which
 - profit percentage by market and country wise for detailed analysis.
 - To identify the sales, profit, and market size by category and shipping mode.
 
+## Dashboard
+![Dashboard Overview](images/Sales.png)
+
 ## Visualizations:
 This dashboard provides insights into the Profit and Revenue of products supplied globally.
 
@@ -46,5 +49,12 @@ This dashboard provides insights into the Profit and Revenue of products supplie
     The scatter chart represents sales, profit, and market size by category and shipping mode:
         Office Supplies shipped via Standard Class dominate with a market size of 18,695, total profit of $307,924, and total sales of $2,232,709.
         Technology in Standard Class holds the second-largest market size of 6,117.
+  
 
+## Languages Used
+
+![Power BI](https://img.shields.io/badge/PowerBI-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## Contact
+For any questions or inquiries, please contact [revathigangadaran@gmail.com].
 
